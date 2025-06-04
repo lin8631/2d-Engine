@@ -1,3 +1,6 @@
 [submodule "Engine/3rdparty/freetype"]
 	path = Engine/3rdparty/freetype
 	url = https://github.com/freetype/freetype.git
+[submodule "Engine/3rdparty/SDL"]
+	path = Engine/3rdparty/SDL
+	url = https://github.com/libsdl-org/SDL.git
